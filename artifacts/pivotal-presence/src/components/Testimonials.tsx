@@ -12,9 +12,9 @@ const testimonials = [
     role: "Senior Vice President"
   },
   {
-    quote: "Kevin's guidance helped me not only refine my leadership skills but also gain more confidence in my decision-making. Kevin is genuinely invested in a person's success and brings a perfect blend of empathy, wisdom, and strategy to every conversation.",
-    author: "Colin Murphy",
-    role: "Vice President"
+    quote: "Working with Kevin has been transformative — I've gotta say, it really hit home for me when he asked that one simple question about what I truly value as a leader. Rather than handing me answers, he helped me find them myself, step by step.\n\nI was standing at a major crossroads in my career and frankly, a bit lost. Kevin's coaching gave me the clarity, confidence, and motivation I needed to pick a direction and start moving. It wasn't magic — it was thoughtful, tough questions and practical next steps.",
+    author: "Jack Chen",
+    role: "Director"
   },
   {
     quote: "When I started working with Kevin, everything in the business ran through me. Every decision, every difficult conversation, every task that felt quicker to do myself. Several months later, the business has a new structure with defined functions and managers, a trusted colleague now carries half of the sales load I used to carry alone, and I've made and followed through on the hardest people decision I've had to make as an owner.\n\nKevin's coaching goes deeper than business structure, he helped me understand the patterns underneath why I was holding everything, and gave me practical ways to change them. He challenges you directly but you always know he's on your side.\n\nIf you're a business owner whose company can't run without you, I'd strongly recommend working with him.",
