@@ -17,9 +17,9 @@ const testimonials = [
     role: "Vice President"
   },
   {
-    quote: "Working with Kevin gave me the clarity and support to take the necessary steps. He asked thoughtful questions and used processes that helped me understand what was holding me back and the steps to move forward.",
-    author: "Andrea O'Callaghan",
-    role: "Business Owner"
+    quote: "When I started working with Kevin, everything in the business ran through me. Every decision, every difficult conversation, every task that felt quicker to do myself. Several months later, the business has a new structure with defined functions and managers, a trusted colleague now carries half of the sales load I used to carry alone, and I've made and followed through on the hardest people decision I've had to make as an owner.\n\nKevin's coaching goes deeper than business structure, he helped me understand the patterns underneath why I was holding everything, and gave me practical ways to change them. He challenges you directly but you always know he's on your side.\n\nIf you're a business owner whose company can't run without you, I'd strongly recommend working with him.",
+    author: "John Sherry",
+    role: "Director & Owner"
   }
 ];
 
