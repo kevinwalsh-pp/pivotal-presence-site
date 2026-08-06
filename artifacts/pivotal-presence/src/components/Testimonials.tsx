@@ -67,9 +67,13 @@ export default function Testimonials() {
               style={{ transitionDelay: `${(index + 1) * 150}ms` }}
             >
               <div className="bg-background p-8 md:p-10 rounded-sm shadow-lg h-full flex flex-col">
-                <p className="text-base md:text-lg text-foreground/80 leading-relaxed mb-6 flex-grow italic">
-                  "{testimonial.quote}"
-                </p>
+                <div className="text-base md:text-lg text-foreground/80 leading-relaxed mb-6 flex-grow italic space-y-4">
+                  {testimonial.quote.split('\n\n').map((para, i, arr) => (
+                    <p key={i}>
+                      {i === 0 && '"'}{para}{i === arr.length - 1 && '"'}
+                    </p>
+                  ))}
+                </div>
                 <div className="border-t border-border pt-4">
                   <p className="font-semibold text-foreground">{testimonial.author}</p>
                   <p className="text-sm text-foreground/60">{testimonial.role}</p>
