@@ -25,6 +25,11 @@ const testimonials = [
     quote: "Kevin is a natural coach, and I would highly recommend working with him. He is a great listener, empathetic, a strong communicator, always engaged, and provided me with some great feedback and learnings.",
     author: "David McGuinness",
     role: "Director"
+  },
+  {
+    quote: "When I was working through a career change and struggling to gain traction, working with Kevin gave me clarity and support to take the necessary steps. He asked thoughtful questions and used processes that helped me understand what was holding me back and the steps to move forward. I’d gladly recommend Kevin to anyone looking for a coach who brings insight, presence, and a genuinely supportive approach.",
+    author: "Andrea O'Callaghan",
+    role: "Small Business Owner"
   }
 ];
 
