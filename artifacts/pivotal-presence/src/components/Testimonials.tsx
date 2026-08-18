@@ -20,6 +20,11 @@ const testimonials = [
     quote: "When I started working with Kevin, everything in the business ran through me. Every decision, every difficult conversation, every task that felt quicker to do myself. Several months later, the business has a new structure with defined functions and managers, a trusted colleague now carries half of the sales load I used to carry alone, and I've made and followed through on the hardest people decision I've had to make as an owner.\n\nKevin's coaching goes deeper than business structure, he helped me understand the patterns underneath why I was holding everything, and gave me practical ways to change them. He challenges you directly but you always know he's on your side.\n\nIf you're a business owner whose company can't run without you, I'd strongly recommend working with him.",
     author: "John Sherry",
     role: "Director & Owner"
+  },
+  {
+    quote: "Kevin is a natural coach, and I would highly recommend working with him. He is a great listener, empathetic, a strong communicator, always engaged, and provided me with some great feedback and learnings.",
+    author: "David McGuinness",
+    role: "Director"
   }
 ];
 
