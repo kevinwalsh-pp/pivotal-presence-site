@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import logo from '../../../../attached_assets/logo.png';
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -19,8 +20,9 @@ export default function Header() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
-        <a href="#" className="font-serif text-2xl font-semibold tracking-wide text-foreground">
-          Pivotal Presence
+        <a href="#" className="flex items-center gap-3 font-serif text-2xl font-semibold tracking-wide text-foreground">
+          <img src={logo} alt="" className="w-8 h-8 object-contain" />
+          <span>Pivotal Presence</span>
         </a>
         
         <a
